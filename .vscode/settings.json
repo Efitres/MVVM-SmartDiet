@@ -3,5 +3,17 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
+  },
+    "files.exclude": {
+    "assets": true,
+    ".gitignore": true,
+    "app.json": true,
+    "node_modules": true,
+    "eslint.config.js": true,
+    "expo-env.d.ts": true,
+    "package-lock.json": true,
+    "package.json": true,
+    "tsconfig.json": true
+    
   }
 }
