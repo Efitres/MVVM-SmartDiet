@@ -24,6 +24,9 @@ Este é um projeto Expo criado com create-expo-app.
 1. Instale as dependências
 Certifique-se de ter o Node.js e o Expo CLI instalados em seu ambiente de desenvolvimento.
 
+VERSÃO DO NODE UTILIZADA = 23.9.0
+VERSÃO DO EXPO UTILIZADA = 6.3.12
+
 Node.js: Baixe e instale o Node.js (versão LTS recomendada).
 
 Expo CLI: Instale globalmente via npm:
